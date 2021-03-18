@@ -1,9 +1,9 @@
-# encryption
+# Unicode Cypher
 
-Pretty bad attempt at making an encryption algorithm (more of a cypher than an actual encryption). This is by no means finished, it works horribly right now
+This is a weird cyphering algorithm using Unicode characters. started out as a bad attempt at encryption. 
 
 ## how it works
-This algorithm uses ord() and chr() to get ASCII (or Unicode idk) values for each character you give. It alters the values and turns them back into ASCII (or Unicode, i have no idea)
+This algorithm uses ord() and chr() to get Unicode values for each character you give. It alters the values and turns them back into Unicode.
 
 ## examples
 
