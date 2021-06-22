@@ -1,7 +1,8 @@
 # Unicode Cypher
+ 
+This is a weird cyphering algorithm using Unicode characters. It started out as a bad attempt at encryption. 
 
-This is a weird cyphering algorithm using Unicode characters. started out as a bad attempt at encryption. 
-
+You can find the unicode cypher, by me, in the unicode-cypher folder. In the kunos-cypher folder, you can find kuno's attempt at encryption (since this is for a school project).
 ## how it works
 This algorithm uses ord() and chr() to get Unicode values for each character you give. It alters the values and turns them back into Unicode.
 
